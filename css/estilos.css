@@ -1,0 +1,29 @@
+.logo {
+	text-align: center;
+
+}
+.logo img{
+	max-width: 100%;
+	
+}
+
+.header{
+	margin: 0;
+	padding: 0;
+	background: #C7E9F5;
+}
+footer{
+	max-width: 100%;
+	background: #0E92C2;
+}
+.copyright{
+	background: #0A688A;
+	color: white;
+}
+
+#header{
+	-webkit-box-shadow: 10px 7px 25px 8px rgba(161,161,161,0.22);
+-moz-box-shadow: 10px 7px 25px 8px rgba(161,161,161,0.22);
+box-shadow: 10px 7px 25px 8px rgba(161,161,161,0.22);
+background: #C7E9F5;
+}
