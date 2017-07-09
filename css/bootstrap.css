@@ -11,8 +11,7 @@ html {
 }
 body {
   margin: 0;
-d
-
+   padding-top:  65px; 
 }
 article,
 aside,
@@ -1132,6 +1131,8 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+  margin:   auto; 
+
 }
 .img-rounded {
   border-radius: 6px;
@@ -5041,7 +5042,7 @@ a.thumbnail.active {
   border-color: #337ab7;
 }
 .thumbnail .caption {
-  padding: 9px;
+  
   color: #333;
 }
 .alert {
@@ -6256,6 +6257,7 @@ button.close {
 }
 .carousel {
   position: relative;
+  margin-top:   10px;
 }
 .carousel-inner {
   position: relative;
